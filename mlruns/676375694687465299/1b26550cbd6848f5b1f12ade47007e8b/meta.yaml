@@ -1,0 +1,15 @@
+artifact_uri: /root/pydataberlin-2019-master/mlruns/676375694687465299/1b26550cbd6848f5b1f12ade47007e8b/artifacts
+end_time: 1685093098020
+entry_point_name: ''
+experiment_id: '676375694687465299'
+lifecycle_stage: active
+run_id: 1b26550cbd6848f5b1f12ade47007e8b
+run_name: righteous-slug-313
+run_uuid: 1b26550cbd6848f5b1f12ade47007e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685093095620
+status: 3
+tags: []
+user_id: root
