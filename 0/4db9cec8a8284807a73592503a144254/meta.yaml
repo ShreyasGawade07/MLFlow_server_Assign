@@ -1,0 +1,15 @@
+artifact_uri: /root/pydataberlin-2019-master/mlruns/0/4db9cec8a8284807a73592503a144254/artifacts
+end_time: 1685076954018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4db9cec8a8284807a73592503a144254
+run_name: ''
+run_uuid: 4db9cec8a8284807a73592503a144254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685074472883
+status: 3
+tags: []
+user_id: root
