@@ -1,0 +1,15 @@
+artifact_uri: /root/pydataberlin-2019-master/mlruns/676375694687465299/ac83285c40734a48ae974ba88e1e2422/artifacts
+end_time: 1685093095575
+entry_point_name: ''
+experiment_id: '676375694687465299'
+lifecycle_stage: active
+run_id: ac83285c40734a48ae974ba88e1e2422
+run_name: orderly-slug-966
+run_uuid: ac83285c40734a48ae974ba88e1e2422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685093090719
+status: 3
+tags: []
+user_id: root

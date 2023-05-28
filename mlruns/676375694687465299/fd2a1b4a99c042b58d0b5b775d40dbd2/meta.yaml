@@ -1,0 +1,15 @@
+artifact_uri: /root/pydataberlin-2019-master/mlruns/676375694687465299/fd2a1b4a99c042b58d0b5b775d40dbd2/artifacts
+end_time: 1685073215662
+entry_point_name: ''
+experiment_id: '676375694687465299'
+lifecycle_stage: active
+run_id: fd2a1b4a99c042b58d0b5b775d40dbd2
+run_name: capricious-seal-991
+run_uuid: fd2a1b4a99c042b58d0b5b775d40dbd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685073211910
+status: 3
+tags: []
+user_id: root

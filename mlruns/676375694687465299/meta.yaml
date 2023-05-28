@@ -1,0 +1,6 @@
+artifact_location: /root/pydataberlin-2019-master/mlruns/676375694687465299
+creation_time: 1685010273560
+experiment_id: '676375694687465299'
+last_update_time: 1685010273560
+lifecycle_stage: active
+name: ElasticNet_wine
